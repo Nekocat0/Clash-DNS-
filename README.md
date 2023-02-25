@@ -8,4 +8,4 @@ Clash配置
 
 2.在你转换好的链接中找到“false&config=”，然后把“=”后面的链接内容替换为“https://raw.githubusercontent.com/Nekocat0/-/main/nodnsleak.ini”
 
-3.然后导入Clash就可以使用了
+3.最后导入Clash就可以使用了
